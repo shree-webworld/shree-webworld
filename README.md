@@ -1,5 +1,5 @@
 <!--![Header](https://github.com/shree-webworld/shree-webworld/blob/main/github-header-image%20(6).png)-->
-![MasterHead](./github-header-image%20(6).png)
+![MasterHead](./github-header-image.png)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
