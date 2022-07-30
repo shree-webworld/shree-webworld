@@ -1,4 +1,6 @@
-<!--![Header](https://github.com/shree-webworld/shree-webworld/blob/main/github-header-image%20(6).png)-->
+<!--![Header](https://github.com/shree-webworld/shree-webworld/blob/main/github-header-image%20(6).png)
+<img src="https://img.shields.io/github/followers/shree-webworld?logo=github&style=for-the-badge&logoColor=white">](https://github.com/shree-webworld)
+-->
 ![MasterHead](./github-header-image.png)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,7 +8,9 @@
 
 
 
-[<img src="https://img.shields.io/github/followers/shree-webworld?logo=github&style=for-the-badge&logoColor=white">](https://github.com/shree-webworld)
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shree-webworld)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shreedharsawant3@gmail.com)
 
 - 🌱 I’m currently learning **Python**
 
