@@ -1,7 +1,7 @@
 <!--![Header](https://github.com/shree-webworld/shree-webworld/blob/main/github-header-image%20(6).png)
 <img src="https://img.shields.io/github/followers/shree-webworld?logo=github&style=for-the-badge&logoColor=white">](https://github.com/shree-webworld)
 -->
-![MasterHead](./github-header-image.png)
+![MasterHead](./github-header-image%20(6).png)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
